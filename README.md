@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nathan @DavaoSecurity, and spend my working hours hacking the planet!
-- 👀 I’m interested in all things related to ethical hacking. Got all of the expected certifications and 30+ years of work experience.
+- 👋 Hi, I’m Nathan @DavaoSecurity, and spend my working hours fiddling the keyboard!
+- 👀 I’m interested in all things related to ethical hacking. Have all of the expected certifications and 30+ years of work experience.
 - 🌱 I’m currently mastering more advanced C++ and Python3, and aim to use the Raspberry Pi 5AI HAT for hacking purposes.
 - 💞️ I’m looking to collaborate on hacking projects, hacking tools, discussions, ideas ........
 - 📫 How to reach me nat@davaosecurity.com
